@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Register</string>
+    <string name="btn_submit">Submit</string>
+    <string name="username">UserName</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="username_error">Field is Required</string>
+    <string name="password_error">Field is Required</string>
+    <string name="confirm_password_error">Field is Required</string>
+    <string name="second_main_text">Congratulation! You Are Successfully Registered</string>
+</resources>
